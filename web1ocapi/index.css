@@ -1,0 +1,12 @@
+body {
+    color: white;
+    background-color: saddlebrown;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    padding: 0px 150px;
+}
